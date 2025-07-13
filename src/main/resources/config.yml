@@ -1,0 +1,46 @@
+# EasyMessage 1.0 (C) @j0rrdnn
+# GitHub: github.com/j0rrdnn
+# Discord: @j0rrdnn
+# Found any bugs related to this plugin? Contact me.
+
+# EasyMessage Configuration File
+# Configure your welcome message and announcements here
+
+# Enable or disable the plugin
+enabled: true
+
+# Welcome message sent to players when they join
+# Use {player} as a placeholder for the player's name
+# Supports color codes with & (e.g., &a for green, &6 for gold)
+welcome-message: "&aWelcome to the server, &e{player}&a!"
+
+# Leave message sent to players when they leave
+# Use {player} as a placeholder for the player's name
+leave-message: "&e{player} &ahas left the server."
+
+# Boss bar announcement message shown when players join
+# Use {player} as a placeholder for the player's name
+# Supports color codes with & (e.g., &a for green, &6 for gold)
+announcement-message: "&6Welcome &e{player} &6to our amazing server!"
+
+# Enable or disable the boss bar announcement
+announcement-enabled: true
+
+# Duration (in seconds) for how long the boss bar stays visible
+# Set to 0 to disable auto-removal (boss bar stays until manually removed)
+announcement-duration: 10
+
+# Announcement command settings
+# Duration for command-triggered announcements
+announce-duration: 5
+
+# Sound played when announcements are shown
+# Use Minecraft sound names (e.g., ENTITY_EXPERIENCE_ORB_PICKUP)
+announce-sound: "ENTITY_EXPERIENCE_ORB_PICKUP"
+
+# Enable or disable sounds for announcements
+announce-sound-enabled: true
+
+# Boss bar color for announcements
+# Available colors: BLUE, GREEN, PINK, PURPLE, RED, WHITE, YELLOW
+announce-bar-color: "RED"

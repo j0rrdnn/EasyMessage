@@ -1,0 +1,4 @@
+name: EasyMessage
+version: '1.0'
+main: me.j0rrdnn.easyMessage.EasyMessage
+api-version: '1.21'
