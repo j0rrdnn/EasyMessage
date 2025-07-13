@@ -35,6 +35,14 @@ After the first run, a `config.yml` file will be generated where you can customi
 - Supported on **PaperMC 1.16+**
 - May also work on other forks like Purpur and Spigot
 
+### Support
+
+Need help, want to report a bug, or have a suggestion?
+
+- **Contact:** [j0rrdnn@gmail.com]  
+- **Discord:** [https://discord.nusantaramc.me]  
+- **GitHub:** [https://github.com/j0rrdnn/EasyMessage]
+
 ## License
 
 This plugin is open source and distributed under the Apache 2.0 License.
