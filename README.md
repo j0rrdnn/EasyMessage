@@ -10,11 +10,13 @@
 
 ## Commands
 
+- `/em edit <welcome|leave|announcement> <message>` - Edit the join/leave or the greeting event message
 - `/announce <message>` – Broadcasts a message to all players  
-- More commands coming soon...
+- `/em reload` - To reload the plugins
 
 ## Permissions
 
+- `easymessage.edit` – Allows the use of the `/em edit` commands
 - `easymessage.announce` – Allows the use of the `/announce` command
 
 ## Installation
